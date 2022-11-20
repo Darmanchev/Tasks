@@ -73,35 +73,5 @@ int main()
    // cout << "Arrea pira = " << S1 << " Volume = " << V;
 
    // return 0;
-
-
-   int x1,y1,x2,y2,r1,r2;
-   cin>>x1>>y1>>x2>>y2>>r1>>r2;
-
-   int d1=x2-x1;
-   int d2=y2-y2;
-   double distance=sqrt(d1*d1+d2*d2);
-int r_sum=r1+r2;
-
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
    
 }
